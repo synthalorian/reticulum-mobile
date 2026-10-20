@@ -2,7 +2,7 @@
 
 # Reticulum Mobile
 
-A lightweight Android chat client for [Reticulum](https://reticulum.network/) / LXMF mesh messaging, built with Flutter. It is a **thin client** for a self-hosted [reticulum-hub](https://github.com/Blackshield-Company/reticulum-hub): the hub runs the RNS/LXMF node, and the phone talks to it over HTTP + WebSocket (e.g. over Tailscale/VPN). For a full on-device Reticulum node, see [Sideband](https://github.com/markqvist/Sideband).
+A lightweight Android chat client for [Reticulum](https://reticulum.network/) / LXMF mesh messaging, built with Flutter. It is a **thin client** for a self-hosted [reticulum-hub](https://github.com/synthalorian/reticulum-hub): the hub runs the RNS/LXMF node, and the phone talks to it over HTTP + WebSocket (e.g. over Tailscale/VPN). For a full on-device Reticulum node, see [Sideband](https://github.com/markqvist/Sideband).
 
 ## Features (MVP)
 
